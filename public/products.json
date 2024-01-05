@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "Car Engine Plug",
+    "img": "https://www.figma.com/file/XF6YIQCCbxKApNhlnvntwx/image/1cee7dece5eee643c708de2da6197230b46825df",
+    "price": 75.99
+  },
+  {
+    "id": 2,
+    "title": "Car Air Filter",
+    "img": "https://www.figma.com/file/XF6YIQCCbxKApNhlnvntwx/image/616e31232ef2da7587e5e2c22734c7ba7662cbd2",
+    "price": 29.99
+  },
+  {
+    "id": 3,
+    "title": "Cools Led Light",
+    "img": "https://www.figma.com/file/XF6YIQCCbxKApNhlnvntwx/image/88b9766e03822b66af978210cded29ec38902ace",
+    "price": 89.99
+  },
+  {
+    "id": 4,
+    "title": "Tire Rotation and Balancing",
+    "img": "https://www.figma.com/file/XF6YIQCCbxKApNhlnvntwx/image/309c7f175219fcbb108ae637a1c48ca64734da66",
+    "price": 49.99
+  },
+  {
+    "id": 5,
+    "title": "Engine Diagnostic",
+    "img": "https://www.figma.com/file/XF6YIQCCbxKApNhlnvntwx/image/e6cf24b70fa5ec45f67d7eb6843ec16d4d58e447",
+    "price": 77.9
+  },
+  {
+    "id": 6,
+    "title": "EXIDE EPIQ FEP0-EPIQ35L 35 Ah Car Battery ",
+    "img": "https://www.figma.com/file/XF6YIQCCbxKApNhlnvntwx/image/63b17b86feb5ae6dc81fc986d42c6fec22d5aed2",
+    "price": 55.99
+  }
+]
