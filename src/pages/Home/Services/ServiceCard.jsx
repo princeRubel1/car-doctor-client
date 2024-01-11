@@ -1,9 +1,10 @@
 import React from "react";
 import { GoArrowRight } from "react-icons/go";
 import { Link } from "react-router-dom";
+import { LuIndianRupee } from "react-icons/lu";
 
 const ServiceCard = ({ service }) => {
-  const { img, title, price } = service;
+  const { _id, img, title, price } = service;
   return (
     <div className="card w-96 bg-base-100 shadow-xl">
       <figure className="px-10 pt-10">
@@ -16,8 +17,10 @@ const ServiceCard = ({ service }) => {
           style={{ color: "#FF3811" }}
           className="card-actions flex items-center"
         >
-          <p>Price : ${price}</p>
-          <Link to="/service" className="text-2xl">
+          <p className="flex  items-center">
+            Price :<LuIndianRupee className="" /> {price}
+          </p>
+          <Link to={`/checkout/${_id}`} className="text-2xl">
             <GoArrowRight />
           </Link>
         </div>
